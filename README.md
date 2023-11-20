@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Tiwari</h1>
 <h3 align="center">A passionate Java Developer from India</h3>
-<img align="right" alt="coding"width="400"src"https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg">
+<!-- <img align="right" alt="coding"width="400"src"https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg"> -->
+<iframe src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg"></iframe>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwaltiwari25&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwaltiwari25" /> </p>
 
