@@ -5,17 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=ujjwaltiwari25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ujjwaltiwari25">
-    <img src="https://img.shields.io/github/followers/ujjwaltiwari25?label=Follow&style=social" alt="Follow on GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/ujjwaltiwari25/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="ujjwaltiwari153@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email" />
-  </a>
-</p>
+
 
 <!-- Start of the section you want to modify -->
 <p align="center">
