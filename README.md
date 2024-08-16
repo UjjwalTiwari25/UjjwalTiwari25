@@ -1,24 +1,25 @@
 <h1 align="center">Hi there 👋, I'm Ujjwal Tiwari</h1>
-<h3 align="center">A Passionate Java Developer from India</h3>
-
-<p align="center">
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683700802583/872218de-7763-4505-b028-d6b02add66c7.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" alt="Coding Animation" width="100%" height="auto" style="max-height: 312px; object-fit: cover;" />
-</p>
-
+<h2 align="center">A Passionate Java Developer from India</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ujjwaltiwari25&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwaltiwari25" />
 </p>
 
-<h3 align="center">About Me</h3>
+<hr>
 
-- 🔭 I’m currently working on **Data Science Projects**
-- 🌱 I’m currently learning **Java and Web Development**
-- 📝 I regularly write articles on [Quora](https://www.quora.com/profile/Ujjwal-Tiwari-129)
-- 💬 Ask me about **Java**
-- 📫 How to reach me: **ujjwaltiwari153@gmail.com**
+<h2 align="center">About Me</h2>
 
-<h3 align="center">Connect with Me</h3>
+<p style="font-size:20px;">
+  🔭 I’m currently working on <strong>Data Science Projects</strong><br>
+  🌱 I’m currently learning <strong>Java and Web Development</strong><br>
+  📝 I regularly write articles on <a href="https://www.quora.com/profile/Ujjwal-Tiwari-129">Quora</a><br>
+  💬 Ask me about <strong>Java</strong><br>
+  📫 How to reach me: <strong>ujjwaltiwari153@gmail.com</strong>
+</p>
+
+<hr>
+
+<h2 align="center">Connect with Me</h2>
 <p align="center">
   <a href="https://linkedin.com/in/ujjwal.tiwari_25" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -28,12 +29,14 @@
   </a>
 </p>
 
-<h3 align="center">Languages, Tools & Stats</h3>
+<hr>
+
+<h2 align="center">Languages, Tools & Stats</h2>
 
 <table align="center">
   <tr>
     <td align="center">
-      <h4>Languages and Tools</h4>
+      <h3>Languages and Tools</h3>
       <p>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
@@ -65,19 +68,19 @@
       </p>
     </td>
     <td align="center">
-      <h4>Most Used Languages</h4>
+      <h3>Most Used Languages</h3>
       <p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwaltiwari25&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
       </p>
     </td>
     <td align="center">
-      <h4>GitHub Stats</h4>
+      <h3>GitHub Stats</h3>
       <p>
         <img src="https://github-readme-stats.vercel.app/api?username=ujjwaltiwari25&show_icons=true&locale=en" alt="GitHub Stats" />
       </p>
     </td>
     <td align="center">
-      <h4>GitHub Streak</h4>
+      <h3>GitHub Streak</h3>
       <p>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwaltiwari25&" alt="GitHub Streak" />
       </p>
