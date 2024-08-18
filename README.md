@@ -3,18 +3,24 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ujjwaltiwari25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-<p align="center">
-  <a href="https://github.com/ujjwaltiwari25">
+    <a href="https://github.com/ujjwaltiwari25">
     <img src="https://img.shields.io/github/followers/ujjwaltiwari25?label=Follow&style=social" alt="Follow on GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/ujjwaltiwari25/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ujjwaltiwari153@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email" />
-  </a>
 </p>
+
+
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/ujjwaltiwari25/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.youtube.com/@ujjwaltiwari7916" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/ujjwal.tiwari_25" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ujjwaltiwari153@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
+</div>
 
 
 
