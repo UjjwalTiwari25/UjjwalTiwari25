@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/repo-name/branch-name/image.png" alt="Header Image" width="100%" />
+  <img src="image.png" alt="Header Image" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Ujjwal Tiwari</h1>
