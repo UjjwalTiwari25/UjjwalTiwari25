@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="image.png" alt="Header Image" width="100%" />
-</p>
-
 <h1 align="center">Hi there 👋, I'm Ujjwal Tiwari</h1>
 <h2 align="center">Java Developer from India</h2>
 
