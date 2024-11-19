@@ -30,7 +30,7 @@
 <!-- Start of the section you want to modify -->
 <p align="center">
   <span>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwaltiwari25&" alt="GitHub Streak" style=" background:black ;width: 390px; height: 200px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwaltiwari25&" alt="GitHub Streak" style="width: 390px; height: 200px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwaltiwari25&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 280px; height: 200px;" />
   </span>
 </p>
