@@ -11,16 +11,6 @@
 
 </div>
 
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ujjwaltiwari25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-    <a href="https://github.com/ujjwaltiwari25">
-    <img src="https://img.shields.io/github/followers/ujjwaltiwari25?label=Follow&style=social" alt="Follow on GitHub" />
-</p>
-
-
-
 <div align="center">
     <a href="https://www.linkedin.com/in/ujjwaltiwari25/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -40,7 +30,7 @@
 <!-- Start of the section you want to modify -->
 <p align="center">
   <span>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwaltiwari25&" alt="GitHub Streak" style="width: 390px; height: 200px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwaltiwari25&" alt="GitHub Streak" style=" background:black ;width: 390px; height: 200px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwaltiwari25&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 280px; height: 200px;" />
   </span>
 </p>
