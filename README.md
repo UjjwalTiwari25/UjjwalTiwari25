@@ -11,10 +11,7 @@
 
 </div>
 
-<h2 align="center">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h2>       
 
-<h1 align="center">Hi there 👋, I'm Ujjwal Tiwari</h1>
-<h2 align="center">Java Developer from India</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ujjwaltiwari25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
