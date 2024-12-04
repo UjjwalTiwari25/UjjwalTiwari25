@@ -25,21 +25,6 @@
 </div>
 
 
-
-
-<!-- Start of the section you want to modify -->
-<p align="center">
-  <span>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwaltiwari25&" alt="GitHub Streak" style="width: 390px; height: 200px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwaltiwari25&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 280px; height: 200px;" />
-  </span>
-</p>
-
-
-  
-</p>
-<!-- End of the section you want to modify -->
-
 <h3 align="center">Technologies & Tools:</h3>
 <p align="center">
   <!-- Programming Languages -->
@@ -78,6 +63,15 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
 </p>
+
+
+
+## PROFILE STATISTICS:
+
+<a href="https://github.com/UjjwalTiwari25/github-readme-stats"><img alt="UjjwalTiwari25 Github Stats" src="https://github-readme-stats.vercel.app/api?username=UjjwalTiwari25&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/UjjwalTiwari25/github-readme-stats"><img alt="UjjwalTiwari25 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalTiwari25&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <a href="https://github.com/UjjwalTiwari25">
   <img alt="UjjwalTiwari25's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=UjjwalTiwari25&theme=react-dark" />
